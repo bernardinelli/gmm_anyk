@@ -10,7 +10,7 @@ The following references detail the procedure:
 - _[Melchior & Goulding, 2018, Astronomy and Computing, 25, 183](http://doi.org/10.1016/j.ascom.2018.09.013)_ (inclusion of selection effects)
 - _[Figueiredo & Jain, 2002, IEEE Transactions on Pattern Analysis and Machine Intelligence, 24, 381](https://ieeexplore.ieee.org/document/990138)_ (determination of number of components)
 
-The full implementation will be described in an upcoming paper. 
+The full implementation will be described in [Bernardinelli et al., 2025, arXiv:2501.01551](https://ui.adsabs.harvard.edu/abs/2025arXiv250101551B/abstract). 
 
 ## Basic usage 
 Suppose we have a 3D dataset (`x`), on the example, we're using a 3D dataset with one cluster:
